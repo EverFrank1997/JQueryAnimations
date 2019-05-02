@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.margin_top {
+    margin-top: 50px;
+}
+
+.input{
+    border:0px;
+    border-bottom:1px solid #B6B4B4;
+    border-radius: 0px;
+    
+}
+.input:focus{
+    outline: none;
+    box-shadow: none;
+}
